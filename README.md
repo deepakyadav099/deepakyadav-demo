@@ -1,10 +1,8 @@
 # deepakyadav-demo
 this is my first Github Repository.
 <br>
-Author- Deepak (yadav ji)
-<<<<<<< HEAD
-author- deepak yadav ji 
-=======
+Author- Deepak kumar yadav
 <br>
-Author- deepak yadav
->>>>>>> b64b8359ae9e88743f75555731d1ca2450255f99
+Add- gopalganj bihar 
+<br>
+parttimme work youtube & facebook..and earn money
